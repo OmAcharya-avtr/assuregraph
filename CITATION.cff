@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "AssureGraph"
+abstract: "An assurance case as a machine-checkable evidence graph — declarative GSN-named YAML of claims, argument steps, assumptions, context and evidence artifacts, with computed checks for unsupported claims, missing evidence files, evidence staleness by content hash, undischarged assumptions, cycles and orphan nodes, plus mermaid rendering for review in a README; structural and freshness checking only, it evaluates no argument's soundness and is not a DO-178C or ARP4754A compliance tool."
+type: software
+authors:
+  - family-names: "Acharya"
+    given-names: "Om"
+    alias: "OmAcharya-avtr"
+repository-code: "https://github.com/OmAcharya-avtr/assuregraph"
+license: "Apache-2.0"
+version: "0.1.0"
+date-released: "2026-08-30"
+keywords:
+  - aerospace
+  - aerospace-assurance
